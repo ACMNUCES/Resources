@@ -1,0 +1,998 @@
+a
+ae
+d
+b
+bd
+ab
+dcd
+dz
+e
+eb
+c
+dz 2
+abb
+ce
+ee
+cea
+bbz
+de
+cc
+dec
+da
+db
+ez 2
+dd
+bz
+az
+dz 3
+cd
+cdd
+ba
+dca
+ca
+dab
+abe
+dz 4
+dbd
+be
+ed
+dba
+az 2
+dcbd
+cbd
+az 3
+dddz
+cdbc
+ad
+aez
+aea
+adb
+aae
+dez
+dda
+aeaz
+ac
+ez 3
+az 4
+ebc
+ceb
+deb
+acb
+bc
+bbz 2
+ccz
+ec
+cde
+cz
+cee
+bcb
+cbcde
+edz
+bcz
+ace
+bcz 2
+bcc
+dbae
+bdc
+bead
+aaz 2
+aba
+bca
+bba
+bz 2
+adz
+aad
+ddz
+babb
+aez 2
+dez 2
+bbe
+dcbdz 2
+abaz
+dz 5
+dbce
+cdee
+ea
+cdc
+ecz
+eab
+cae
+daacb
+ez 4
+cz 2
+cz 3
+eeb
+acec
+daaz
+az 5
+eabc
+ddde
+aca
+dz 6
+cda
+abbc
+dz 7
+dz 8
+dcaz 2
+az 6
+bbdz
+debe
+cba
+cdda
+eaaz 2
+ecz 2
+adbz
+bed
+cebc
+bdd
+ccz 2
+ccd
+dz 9
+ede
+abab
+ceda
+dabc
+dbb
+eae
+dz 10
+bde
+ebz
+dbbdz 2
+dac
+adbb
+cz 4
+ez 5
+acc
+dce
+eea
+az 7
+az 8
+daz
+cz 5
+dcad
+eeab
+bded
+az 9
+cz 6
+cz 7
+az 10
+bddaa
+cebz
+bdab
+bbb
+babz
+ada
+bz 3
+bced
+cz 8
+bdabz
+eed
+bz 4
+ebz 2
+edz 2
+edz 3
+eead
+caed
+ccaz
+bz 5
+ccdda
+cdbd
+ded
+ccz 3
+eda
+cz 9
+abd
+dcz
+ceaz
+aez 3
+ez 6
+acda
+ecz 3
+cedbba
+cad
+ez 7
+deca
+ccadc
+dcbc
+eeeb
+dez 3
+eec
+accd
+dcz 2
+adc
+adce
+edec
+baa
+ez 8
+az 11
+az 12
+aed
+addd
+bcz 3
+ccab
+ddz 2
+bad
+aeee
+ade
+az 13
+cbz
+bbc
+cbdc
+dbe
+caa
+babz 2
+bccd
+eecd
+acdcc
+adz 2
+az 14
+badeb
+eaad
+dbaee
+dddaa
+bbcc
+bee
+dez 4
+edz 4
+bbbcd
+dad
+ebb
+acbz
+aab
+beec
+dadz
+cz 10
+acaad
+ebcb
+bcada
+beda
+cce
+eedcz 2
+cz 11
+dcez 2
+az 15
+aedd
+dacc
+dbaeb
+az 16
+aeed
+adcc
+acbcc
+cebcd
+beb
+az 17
+bez
+aede
+aez 4
+ez 9
+dcea
+acbz 2
+az 18
+bbeb
+dbcebd
+cbe
+acaz
+dcdz 2
+beabe
+ez 10
+caac
+ebaa
+bbba
+ecz 4
+caedz
+acbz 3
+cac
+abz 2
+cbaz
+ebba
+ecbz 2
+cz 12
+dz 11
+dbz
+bac
+acbd
+daz 2
+beabz
+caad
+acad
+ccc
+cz 13
+bbdd
+cebb
+edz 5
+cdcbe
+dbeb
+bz 6
+daab
+adae
+dz 12
+acz
+ez 11
+ebe
+dadc
+bdccbc
+caz
+eecc
+ez 12
+eez
+az 19
+az 20
+edce
+cbdz
+accz
+cbab
+aedez
+edez
+ez 13
+eaeb
+bcbe
+ecbb
+adz 3
+beez
+dz 13
+daaz 2
+eedd
+ddb
+eaaa
+ez 14
+ez 15
+ead
+cabz
+adab
+dz 14
+bdb
+ecz 5
+bz 7
+bbca
+aaa
+cbda
+baz
+bae
+ebbz
+dz 15
+eez 2
+cbabz
+adz 4
+cdca
+az 21
+eabz
+dcz 3
+cdcaz 2
+ez 16
+bcbec
+deaz 2
+ddz 3
+dbde
+acz 2
+dabz
+ddz 4
+cz 14
+eaba
+eaz
+bbdz 2
+eeacd
+aadce
+ebd
+cez
+ebbdb
+cbb
+cz 15
+aaz 3
+dcaa
+bbcz 2
+ddc
+dcz 4
+dz 16
+ccaa
+dz 17
+eaz 2
+caz 2
+aadb
+adcz 2
+bcz 4
+bz 8
+daz 3
+aced
+bdad
+ccac
+az 22
+bcce
+addc
+edeb
+edac
+aeaz 2
+bz 9
+ez 17
+cbdb
+cabb
+az 23
+bz 10
+ecbz 3
+abdb
+ebez 2
+dcdb
+dddz 2
+caee
+ddaz
+edacz 2
+dz 18
+decd
+bbz 3
+dedd
+edz 6
+eaez
+dcz 5
+dcc
+ebab
+caec
+ebbb
+dbacz
+eeed
+acdaz
+ecc
+bdea
+az 24
+bdz
+bada
+caecaz
+dcec
+cdea
+ebz 3
+dcez 3
+cbcz
+eeaz
+ebeb
+edca
+bz 11
+dacz
+abbz
+eedz
+eeebe
+ccb
+eaz 3
+edz 7
+ebcc
+eaaz 3
+aac
+baed
+ccbd
+cabeb
+baabc
+cccz
+ceaz 2
+bbdb
+dcbz 2
+az 25
+bz 12
+dcdd
+cacz
+bbbca
+dbdbbz 2
+aeda
+cez 2
+bec
+cebe
+ez 18
+cedac
+aaz 4
+bceddz
+edd
+bdbaz 2
+aec
+edb
+dae
+bdbb
+cabd
+abc
+dz 19
+bz 13
+dee
+dz 20
+dz 21
+adbd
+cbcz 2
+edcb
+eabez
+caecz
+dz 22
+cbbe
+cdeeez
+ez 19
+cbba
+cz 16
+dz 23
+az 26
+adz 5
+cz 17
+dz 24
+acaadc
+ebbz 2
+acbz 4
+acdaz 2
+daz 4
+bccc
+dcee
+bbz 4
+dcez 4
+dbdd
+cdcbz
+eaab
+acdb
+acbdz
+ccae
+dbdz
+dcadz
+aeea
+bez 2
+adec
+edcc
+cacd
+bedb
+eddb
+eeaz 2
+edda
+dz 25
+caea
+abz 3
+eabae
+abae
+badc
+bddz
+ebdc
+abdd
+eabb
+addcd
+bbz 5
+eac
+cbde
+dced
+bdedd
+adz 6
+dz 26
+adbe
+cdbz
+cz 18
+dccz
+cedae
+ez 20
+bbz 6
+eace
+dbbc
+ez 21
+dedc
+ez 22
+bdz 2
+cbaz 2
+deaz 3
+aaz 5
+bdee
+cabbd
+badcd
+bz 14
+aecc
+ccca
+ez 23
+ddaz 2
+bcec
+aez 5
+aabd
+az 27
+ez 24
+cbz 2
+aedz
+ddbz 2
+cdae
+dz 27
+edbe
+eadz
+eddd
+cccaz
+dead
+ez 25
+ebad
+bbz 7
+daz 5
+bbcz 3
+babcz
+dbab
+cz 19
+bdz 3
+aeb
+dcde
+ebec
+cz 20
+cz 21
+edcae
+cabdc
+baz 2
+adcd
+beac
+ez 26
+edee
+aedcc
+bbad
+bbdz 3
+az 28
+abbz 2
+dz 28
+aeez
+bdac
+caz 3
+decb
+dcz 6
+deba
+bedc
+dddab
+bbae
+cebbc
+az 29
+cz 22
+aada
+ez 27
+bez 3
+eez 3
+aebb
+eabbba
+bcebb
+bebbc
+adabz
+edcac
+dbaz
+dz 29
+ebea
+bbz 8
+ccadz
+dddz 3
+eede
+bbab
+dde
+aaad
+ddaad
+bz 15
+bcca
+bddb
+cez 3
+cebbe
+eez 4
+cbeb
+az 30
+edz 8
+cbaaa
+bbbac
+cz 23
+ez 28
+adbdc
+caede
+bbce
+ceez
+bcz 5
+daz 6
+cbbed
+bcee
+baae
+abbcd
+ecbe
+bcz 6
+dbee
+beea
+bedace
+bacz 2
+babca
+babbz
+cz 24
+deec
+dz 30
+dz 31
+beee
+bcz 7
+bddd
+dz 32
+abcd
+cbad
+dcbe
+az 31
+ez 29
+cz 25
+acadz
+acae
+eaeac
+cbz 3
+eeadea
+ez 30
+bbee
+edbz
+ebdz 2
+cbdz 2
+cz 26
+cdz
+eecdbz
+caz 4
+dbz 2
+bbz 9
+cced
+acdaz 3
+cdba
+bbbz
+aaaa
+deadz 2
+eeccz 2
+ez 31
+eeabz
+eedb
+aecac
+cz 27
+ez 32
+eeada
+cdbe
+cebed
+cec
+acbdb
+cadc
+adbea
+aedcz 2
+acz 3
+dz 33
+dbdbz
+ecz 6
+dz 34
+eaez 2
+cez 4
+aez 6
+dbbb
+abde
+ez 33
+cz 28
+ebez 3
+bccz
+ddbd
+aeaz 3
+cbz 4
+az 32
+acde
+adcz 3
+ddec
+daz 7
+ez 34
+aceae
+bbz 10
+cbz 5
+bbec
+aaca
+cdac
+az 33
+bz 16
+az 34
+cz 29
+ez 35
+cbdcc
+dz 35
+cz 30
+bccde
+acba
+ddaz 3
+caez 2
+ecbez
+bz 17
+daez
+dcz 7
+cbz 6
+cz 31
+cdz 2
+cdbdb
+az 35
+eaz 4
+dbda
+eebe
+eaadd
+eabca
+aaec
+bbadz
+cbbz
+eca
+dz 36
+aeae
+cbed
+aadz
+cccz 2
+aaz 6
+bdca
+ebaz 2
+bz 18
+ez 36
+bdz 4
+acadz 2
+aeaaz
+eadz 2
+ebadd
+decba
+ababb
+bcd
+ez 37
+bcda
+ddbz 3
+aeaz 4
+eaz 5
+ez 38
+ebz 4
+bbece
+bbz 11
+abz 4
+aedz 2
+ccbz
+ddez
+az 36
+eeez 2
+ebda
+eabeez
+aded
+dcz 8
+cez 5
+cdbea
+abcz
+acbb
+dz 37
+bddc
+bcaddz 2
+cacdz 2
+baad
+cbez
+dz 38
+aecz
+cdz 3
+daed
+eabz 2
+abadc
+bbez 2
+aaaz
+acac
+cdez
+dcdee
+acez
+bz 19
+ez 39
+baabcz
+baabe
+adda
+decbd
+cz 32
+eebez
+dbabb
+ece
+babd
+baz 3
+bcez
+bdez
+eddad
+dcbez
+bz 20
+ccbe
+eaz 6
+adbez
+bdccz
+dcdda
+ez 40
+bdz 5
+eadc
+dz 39
+dace
+cebbcz
+dbdz 2
+deab
+cz 33
+az 37
+aecb
+bece
+ez 41
+caez 3
+acz 4
+acedz 2
+ecca
+cz 34
+bdz 6
+ceab
+ez 42
+cz 35
+cebcb
+eez 5
+aadz 2
+aabb
+aabc
+ddaz 4
+ceee
+ecaz
+aecz 2
+abdba
+edz 9
+dz 40
+cdce
+dcbdc
+acadb
+daee
+ccz 4
+bcea
+dz 41
+dbea
+eez 6
+adca
+az 38
+eez 7
+eeadc
+cede
+abdz 2
+bdz 7
+daz 8
+aacz
+abcc
+babbe
+edecd
+adz 7
+cbz 7
+adac
+ddbz 4
+dabbbe
+abz 5
+abddd
+aeba
+abz 6
+caz 5
+abeb
+cdz 4
+ez 43
+ez 44
+dcez 5
+ccaz 2
+aabz 2
+aebe
+az 39
+dcaac
+cdbcc
+aecd
+dbdz 3
+aeaec
+cz 36
+cbbeda
+abbz 3
+aeez 2
+abdc
+bcccz 2
+dbbz
+cz 37
+bdeb
+dccaz
+dbz 3
+ez 45
+adz 8
+ez 46
+dbcc
+acz 5
+az 40
+bz 21
+ecad
+adbz 2
+cdead
+ecab
+edcaz
+caz 6
+dcz 9
+debb
+cdz 5
+ccaca
+abdda
+caez 4
+bdz 8
+bdbe
+aebz 2
+daz 9
+bbz 12
+dddd
+edddz
+bz 22
+acdeb
+eedz 2
+edaab
+deabz 2
+bez 4
+aaea
+dbbbz 2
+ebed
+ccz 5

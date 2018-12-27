@@ -1,0 +1,1000 @@
+a
+ae
+d
+b
+bd
+ab
+dcd
+d
+e
+eb
+c
+d 2
+abb
+ce
+ee
+cea
+bb
+de
+cc
+dec
+da
+db
+e 2
+dd
+b
+a
+d 3
+cd
+cdd
+ba
+dca
+ca
+dab
+abe
+d 4
+dbd
+be
+ed
+dba
+a 2
+dcbd
+cbd
+a 3
+ddd
+cdbc
+ad
+ae
+aea
+adb
+aae
+de
+dda
+aea
+ac
+e 3
+a 4
+ebc
+ceb
+deb
+acb
+bc
+bb 2
+cc
+ec
+cde
+c
+cee
+bcb
+cbcde
+ed
+bc
+ace
+bc 2
+bcc
+dbae
+bdc
+bead
+aa 2
+aba
+bca
+bba
+b 2
+ad
+aad
+dd
+babb
+ae 2
+de 2
+bbe
+dcbd 2
+aba
+d 5
+dbce
+cdee
+ea
+cdc
+ec
+eab
+cae
+daacb
+e 4
+c 2
+c 3
+eeb
+acec
+daa
+a 5
+eabc
+ddde
+aca
+d 6
+cda
+abbc
+d 7
+d 8
+dca 2
+a 6
+bbd
+debe
+cba
+cdda
+eaa 2
+ec 2
+adb
+bed
+cebc
+bdd
+cc 2
+ccd
+d 9
+ede
+abab
+ceda
+dabc
+dbb
+eae
+d 10
+bde
+eb
+dbbd 2
+dac
+adbb
+c 4
+e 5
+acc
+dce
+eea
+a 7
+a 8
+da
+c 5
+dcad
+eeab
+bded
+a 9
+c 6
+c 7
+a 10
+bddaa
+ceb
+bdab
+bbb
+bab
+ada
+b 3
+bced
+c 8
+bdab
+eed
+b 4
+eb 2
+ed 2
+ed 3
+eead
+caed
+cca
+b 5
+ccdda
+cdbd
+ded
+cc 3
+eda
+c 9
+abd
+dc
+cea
+ae 3
+e 6
+acda
+ec 3
+cedbba
+cad
+e 7
+deca
+ccadc
+dcbc
+eeeb
+de 3
+eec
+accd
+dc 2
+adc
+adce
+edec
+baa
+e 8
+a 11
+a 12
+aed
+addd
+bc 3
+ccab
+dd 2
+bad
+aeee
+ade
+a 13
+cb
+bbc
+cbdc
+dbe
+caa
+bab 2
+bccd
+eecd
+acdcc
+ad 2
+a 14
+badeb
+eaad
+dbaee
+dddaa
+bbcc
+bee
+de 4
+ed 4
+bbbcd
+dad
+ebb
+acb
+aab
+beec
+dad
+c 10
+acaad
+ebcb
+bcada
+beda
+cce
+eedc 2
+c 11
+dce 2
+a 15
+aedd
+dacc
+dbaeb
+a 16
+aeed
+adcc
+acbcc
+cebcd
+beb
+a 17
+be
+aede
+ae 4
+e 9
+dcea
+acb 2
+a 18
+bbeb
+dbcebd
+cbe
+aca
+dcd 2
+beabe
+e 10
+caac
+ebaa
+bbba
+ec 4
+caed
+acb 3
+cac
+ab 2
+cba
+ebba
+ecb 2
+c 12
+d 11
+db
+bac
+acbd
+da 2
+beab
+caad
+acad
+ccc
+c 13
+bbdd
+cebb
+ed 5
+cdcbe
+dbeb
+b 6
+daab
+adae
+d 12
+ac
+e 11
+ebe
+dadc
+bdccbc
+ca
+eecc
+e 12
+ee
+a 19
+a 20
+edce
+cbd
+acc
+cbab
+aede
+ede
+e 13
+eaeb
+bcbe
+ecbb
+ad 3
+bee
+d 13
+daa 2
+eedd
+ddb
+eaaa
+e 14
+e 15
+ead
+cab
+adab
+d 14
+bdb
+ec 5
+b 7
+bbca
+aaa
+cbda
+ba
+bae
+ebb
+d 15
+ee 2
+cbab
+ad 4
+cdca
+a 21
+eab
+dc 3
+cdca 2
+e 16
+bcbec
+dea 2
+dd 3
+dbde
+ac 2
+dab
+dd 4
+c 14
+eaba
+ea
+bbd 2
+eeacd
+aadce
+ebd
+ce
+ebbdb
+cbb
+c 15
+aa 3
+dcaa
+bbc 2
+ddc
+dc 4
+d 16
+ccaa
+d 17
+ea 2
+ca 2
+aadb
+adc 2
+bc 4
+b 8
+da 3
+aced
+bdad
+ccac
+a 22
+bcce
+addc
+edeb
+edac
+aea 2
+b 9
+e 17
+cbdb
+cabb
+a 23
+b 10
+ecb 3
+abdb
+ebe 2
+dcdb
+ddd 2
+caee
+dda
+edac 2
+d 18
+decd
+bb 3
+dedd
+ed 6
+eae
+dc 5
+dcc
+ebab
+caec
+ebbb
+dbac
+eeed
+acda
+ecc
+bdea
+a 24
+bd
+bada
+caeca
+dcec
+cdea
+eb 3
+dce 3
+cbc
+eea
+ebeb
+edca
+b 11
+dac
+abb
+eed
+eeebe
+ccb
+ea 3
+ed 7
+ebcc
+eaa 3
+aac
+baed
+ccbd
+cabeb
+baabc
+ccc
+cea 2
+bbdb
+dcb 2
+a 25
+b 12
+dcdd
+cac
+bbbca
+dbdbb 2
+aeda
+ce 2
+bec
+cebe
+e 18
+cedac
+aa 4
+bcedd
+edd
+bdba 2
+aec
+edb
+dae
+bdbb
+cabd
+abc
+d 19
+b 13
+dee
+d 20
+d 21
+adbd
+cbc 2
+edcb
+eabe
+caec
+d 22
+cbbe
+cdeee
+e 19
+cbba
+c 16
+d 23
+a 26
+ad 5
+c 17
+d 24
+acaadc
+ebb 2
+acb 4
+acda 2
+da 4
+bccc
+dcee
+bb 4
+dce 4
+dbdd
+cdcb
+eaab
+acdb
+acbd
+ccae
+dbd
+dcad
+aeea
+be 2
+adec
+edcc
+cacd
+bedb
+eddb
+eea 2
+edda
+d 25
+caea
+ab 3
+eabae
+abae
+badc
+bdd
+ebdc
+abdd
+eabb
+addcd
+bb 5
+eac
+cbde
+dced
+bdedd
+ad 6
+d 26
+adbe
+cdb
+c 18
+dcc
+cedae
+e 20
+bb 6
+eace
+dbbc
+e 21
+dedc
+e 22
+bd 2
+cba 2
+dea 3
+aa 5
+bdee
+cabbd
+badcd
+b 14
+aecc
+ccca
+e 23
+dda 2
+bcec
+ae 5
+aabd
+a 27
+e 24
+cb 2
+aed
+ddb 2
+cdae
+d 27
+edbe
+ead
+eddd
+ccca
+dead
+e 25
+ebad
+bb 7
+da 5
+bbc 3
+babc
+dbab
+c 19
+bd 3
+aeb
+dcde
+ebec
+c 20
+c 21
+edcae
+cabdc
+ba 2
+adcd
+beac
+e 26
+edee
+aedcc
+bbad
+bbd 3
+a 28
+abb 2
+d 28
+aee
+bdac
+ca 3
+decb
+dc 6
+deba
+bedc
+dddab
+bbae
+cebbc
+a 29
+c 22
+aada
+e 27
+be 3
+ee 3
+aebb
+eabbba
+bcebb
+bebbc
+adab
+edcac
+dba
+d 29
+ebea
+bb 8
+ccad
+ddd 3
+eede
+bbab
+dde
+aaad
+ddaad
+b 15
+bcca
+bddb
+ce 3
+cebbe
+ee 4
+cbeb
+a 30
+ed 8
+cbaaa
+bbbac
+c 23
+e 28
+adbdc
+caede
+bbce
+cee
+bc 5
+da 6
+cbbed
+bcee
+baae
+abbcd
+ecbe
+bc 6
+dbee
+beea
+bedace
+bac 2
+babca
+babb
+c 24
+deec
+d 30
+d 31
+beee
+bc 7
+bddd
+d 32
+abcd
+cbad
+dcbe
+a 31
+e 29
+c 25
+acad
+acae
+eaeac
+cb 3
+eeadea
+e 30
+bbee
+edb
+ebd 2
+cbd 2
+c 26
+cd
+eecdb
+ca 4
+db 2
+bb 9
+cced
+acda 3
+cdba
+bbb
+aaaa
+dead 2
+eecc 2
+e 31
+eeab
+eedb
+aecac
+c 27
+e 32
+eeada
+cdbe
+cebed
+cec
+acbdb
+cadc
+adbea
+aedc 2
+ac 3
+d 33
+dbdb
+ec 6
+d 34
+eae 2
+ce 4
+ae 6
+dbbb
+abde
+e 33
+c 28
+ebe 3
+bcc
+ddbd
+aea 3
+cb 4
+a 32
+acde
+adc 3
+ddec
+da 7
+e 34
+aceae
+bb 10
+cb 5
+bbec
+aaca
+cdac
+a 33
+b 16
+a 34
+c 29
+e 35
+cbdcc
+d 35
+c 30
+bccde
+acba
+dda 3
+cae 2
+ecbe
+b 17
+dae
+dc 7
+cb 6
+c 31
+cd 2
+cdbdb
+a 35
+ea 4
+dbda
+eebe
+eaadd
+eabca
+aaec
+bbad
+cbb
+eca
+d 36
+aeae
+cbed
+aad
+ccc 2
+aa 6
+bdca
+eba 2
+b 18
+e 36
+bd 4
+acad 2
+aeaa
+ead 2
+ebadd
+decba
+ababb
+bcd
+e 37
+bcda
+ddb 3
+aea 4
+ea 5
+e 38
+eb 4
+bbece
+bb 11
+ab 4
+aed 2
+ccb
+dde
+a 36
+eee 2
+ebda
+eabee
+aded
+dc 8
+ce 5
+cdbea
+abc
+acbb
+d 37
+bddc
+bcadd 2
+cacd 2
+baad
+cbe
+d 38
+aec
+cd 3
+daed
+eab 2
+abadc
+bbe 2
+aaa
+acac
+cde
+dcdee
+ace
+b 19
+e 39
+baabc
+baabe
+adda
+decbd
+c 32
+eebe
+dbabb
+ece
+babd
+ba 3
+bce
+bde
+eddad
+dcbe
+b 20
+ccbe
+ea 6
+adbe
+bdcc
+dcdda
+e 40
+bd 5
+eadc
+d 39
+dace
+cebbc
+dbd 2
+deab
+c 33
+a 37
+aecb
+bece
+e 41
+cae 3
+ac 4
+aced 2
+ecca
+c 34
+bd 6
+ceab
+e 42
+c 35
+cebcb
+ee 5
+aad 2
+aabb
+aabc
+dda 4
+ceee
+eca
+aec 2
+abdba
+ed 9
+d 40
+cdce
+dcbdc
+acadb
+daee
+cc 4
+bcea
+d 41
+dbea
+ee 6
+adca
+a 38
+ee 7
+eeadc
+cede
+abd 2
+bd 7
+da 8
+aac
+abcc
+babbe
+edecd
+ad 7
+cb 7
+adac
+ddb 4
+dabbbe
+ab 5
+abddd
+aeba
+ab 6
+ca 5
+abeb
+cd 4
+e 43
+e 44
+dce 5
+cca 2
+aab 2
+aebe
+a 39
+dcaac
+cdbcc
+aecd
+dbd 3
+aeaec
+c 36
+cbbeda
+abb 3
+aee 2
+abdc
+bccc 2
+dbb
+c 37
+bdeb
+dcca
+db 3
+e 45
+ad 8
+e 46
+dbcc
+ac 5
+a 40
+b 21
+ecad
+adb 2
+cdead
+ecab
+edca
+ca 6
+dc 9
+debb
+cd 5
+ccaca
+abdda
+cae 4
+bd 8
+bdbe
+aeb 2
+da 9
+bb 12
+dddd
+eddd
+b 22
+acdeb
+eed 2
+edaab
+deab 2
+be 4
+aaea
+dbbb 2
+ebed
+cc 5
+eeddaa
+acde 2
